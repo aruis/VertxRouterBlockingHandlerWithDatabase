@@ -1,7 +1,5 @@
 package io.vertx.ext.web.impl;
 
-import com.zynet.brush.db.DB;
-import com.zynet.brush.db.DBFactory;
 import groovy.sql.Sql;
 import io.vertx.core.Handler;
 import io.vertx.ext.web.AruisRoutingContext;
